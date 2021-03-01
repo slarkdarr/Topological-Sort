@@ -5,7 +5,6 @@
 ## Deskripsi Singkat
 Program melakukan *sorting* terhadap kumpulan mata kuliah yang dapat diambil pada tiap semester dengan menggunakan algoritma *Topological Search* dan pendekatan *Decrease and Conquer*.<br/>
 a. Pertama, program akan melakukan *scan* terhadap file input dan mengubahnya menjadi list representasi graf (DAG).<br/>
-Program akan terus berjalan sampai DAG kosong.<br/>
 b. Lalu, program akan mencari mata kuliah yang berupa simpul yang belum pernah diambil dan prasyaratnya telah terpenuhi (derajat masuk == 0).<br/>
 c. Kemudian, program akan mengambil simpul tersebut serta menghapus simpul tersebut dari DAG beserta dengan semua sisi yang keluar dari simpul tersebut.<br/>
 d. Setelah itu, program akan mengurangi derajat simpul yang berhubungan dengan simpul tersebut dengan 1.<br/>
