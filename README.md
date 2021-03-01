@@ -21,7 +21,7 @@ e. Langkah (b), (c), dan (d) akan terus diulangi sampai semua simpul pada DAG te
 5. Ubah direktori ke tempat dimana Anda telah menyimpan file yang telah di-*clone* sebelumnya menggunakan command `cd ...`<br/>
 6. Ketik `python3 13519107.py` atau `python 13519107.py`<br/>
 7. Program akan berjalan sesuai dengan input dari file teksnya<br/>
-8. Untuk mengubah file teks yang digunakan, ubah variabel filename pada bagian program utama dengan nama file yang ingin digunakan<br/>
+8. Untuk mengubah file teks yang digunakan, ubah variabel `filename` pada bagian program utama dengan nama file yang ingin digunakan<br/>
 
 ## Author / Identitas Pembuat
 Nama  : Daffa Ananda Pratama Resyaly<br/>
