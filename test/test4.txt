@@ -1,0 +1,8 @@
+Bangun tidur.
+Mandi, Bangun tidur.
+Makan, Bangun tidur, Mandi.
+Cium tangan orang tua, Bangun tidur, Mandi, Makan.
+Berangkat sekolah, Cium tangan orang tua, Makan, Mandi, Bangun tidur.
+Belajar di kelas, Berangkat sekolah.
+Makan di kantin, Berangkat sekolah, Belajar di kelas.
+Pulang sekolah, Berangkat sekolah, Belajar di kelas, Makan di kantin.
