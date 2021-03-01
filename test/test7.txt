@@ -1,0 +1,32 @@
+Wooden log.
+Epic log, Wooden log.
+Super log, Epic log.
+Mega log, Super log.
+Hyper log, Mega log.
+Ultra log, Hyper log.
+
+Fish.
+Golden fish, Fish.
+Epic fish, Golden fish.
+
+Apple.
+Banana, Apple.
+
+Ruby.
+
+Wolf skin.
+Zombie eye.
+Unicorn horn.
+Mermaid hair.
+Chip.
+
+Wooden sword, Epic log, Wooden log.
+Fish armor, Fish, Wooden log.
+Fish sword, Golden fish, Epic log.
+Wolf armor, Wooden log, Epic log, Wolf skin.
+Apple sword, Apple, Wooden log, Super log.
+Eye armor, Zombie eye, Wooden log, Super log.
+Zombie sword, Wooden log, Apple, Super log, Zombie eye.
+Banana armor, Wooden log, Banana, Super log.
+Ruby sword, Ruby, Mega log, Wooden log.
+Epic armor, Epic log, Epic fish.

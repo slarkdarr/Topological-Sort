@@ -16,15 +16,17 @@ def readfile(filename):
 	fRead = fOpen.read().split('\n')
 
 	listCourse = []
+
+	# Clean the blank newline
+	fRead = filter(lambda x: x.strip(), fRead)
 	for line in fRead:
 		# Clean each line from unwanted characters
 		# e.g. From "C1, C2, C3." to "C1,C2,C3"
 		line = line.strip()
-		line = line.strip('.')
-		line = line.replace(' ', '')
+		line = line.replace('.', '')
 		# Insert each course ID that was separated by comma to listCourse
 		# e.g. From "C1,C2,C3" to "['C1', 'C2', 'C3']"
-		line = line.split(',')
+		line = line.split(', ')
 		listCourse.append(line)
 
 	return listCourse
@@ -109,7 +111,7 @@ if __name__ == "__main__":
 		# option == Enter => Start Program
 		# Initialize test file with its path
 		path = os.path.dirname(Path(__file__).absolute().parent)
-		filename = "test3.txt"
+		filename = "test1.txt"
 		ffilename = os.path.join(path, 'test', filename)
 
 		print('\nReading from file "%s"\n' % filename)

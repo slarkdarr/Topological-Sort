@@ -1,0 +1,38 @@
+HP.
+
+Life potion.
+
+Wooden log.
+Mega log, Wooden log.
+Ultra log, Mega log.
+
+Epic fish.
+
+Ruby.
+
+Wolf skin.
+Zombie eye.
+Unicorn horn.
+Mermaid hair.
+Chip.
+Dragon scale.
+Dragon essence.
+
+Common lootbox.
+Uncommon lootbox.
+Rare lootbox.
+Epic lootbox.
+Edgy lootbox.
+Omega lootbox.
+Godly lootbox.
+
+EDGY sword, Wooden log, Ultra log.
+EDGY armor, Wolf skin, Zombie eye, Unicorn horn, Mermaid hair, Chip.
+ULTRA-EDGY sword, EDGY sword, Ultra log, Epic fish, Dragon scale.
+ULTRA-EDGY armor, EDGY armor, Ultra log, Ruby, Dragon scale.
+OMEGA sword, ULTRA-EDGY sword, HP, Mega log, Dragon scale.
+OMEGA armor, ULTRA-EDGY armor, Omega lootbox, Dragon scale.
+ULTRA-OMEGA sword, OMEGA sword, Ultra log, Dragon scale.
+ULTRA-OMEGA armor, OMEGA armor, Life potion, Dragon scale.
+
+GODLY sword, ULTRA-OMEGA sword, ULTRA-OMEGA armor, Dragon essence, Godly lootbox, Omega lootbox.

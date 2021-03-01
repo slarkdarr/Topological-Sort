@@ -1,0 +1,34 @@
+Coin.
+
+Wooden log.
+Epic log, Wooden log.
+Super log, Epic log.
+Mega log, Super log.
+Hyper log, Mega log.
+Ultra log, Hyper log.
+
+Fish.
+Golden fish, Fish.
+Epic fish, Golden fish.
+
+Apple.
+Banana, Apple.
+
+Ruby.
+
+Wolf skin.
+Zombie eye.
+Unicorn horn.
+Mermaid hair.
+Chip.
+
+Unicorn sword, Unicorn horn, Fish, Super log.
+Ruby armor, Ruby, Unicorn horn, Super log, Mega log.
+Hair sword, Mermaid hair, Mega log.
+Coin armor, Coin, Hyper log.
+Coin sword, Coin, Ruby, Hyper log.
+Mermaid armor, Mermaid hair, Mega log, Golden fish, Fish.
+Electronical sword, Chip, Hyper log.
+Electronical armor, Chip, Mega log, Hyper log.
+EDGY sword, Wooden log, Ultra log.
+EDGY armor, Wolf skin, Zombie eye, Unicorn horn, Mermaid hair, Chip.

@@ -1,0 +1,10 @@
+Algebra.
+Compilers, Software Engineering.
+Computers, Calculus.
+Geometry, Algebra.
+Operating Systems, Programming Languages.
+Programming Languages, Computers.
+Robotics, Geometry.
+Robotics, Programming Languages.
+Software Engineering, Programming Languages.
+Software Engineering, Databases.
